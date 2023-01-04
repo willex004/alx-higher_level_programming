@@ -4,5 +4,6 @@
 #include <stdlib.h>
 
 def islower(c):
+def uppercase(str):
 
 #endif
